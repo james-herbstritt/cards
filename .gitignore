@@ -115,3 +115,7 @@ dmypy.json
 .pyre/
 __pycache__/
 
+# vim backups and undo logs
+*.*~
+.*~
+..*~

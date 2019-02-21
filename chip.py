@@ -1,8 +1,8 @@
 import enum
 
+
 class Chip(enum.Enum):
     white = 1
-    yellow = 2
     red = 5
     blue = 10
     grey = 20

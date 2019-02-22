@@ -114,8 +114,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 __pycache__/
-
-# vim backups and undo logs
-*.*~
-.*~
-..*~

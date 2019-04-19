@@ -7,5 +7,6 @@ class Deck
 
     def initialize()
         self.@cards = Array.new
+        self.@cards
     end
 end

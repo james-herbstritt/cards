@@ -1,1 +1,1 @@
-Play some card games.
+play some cards.
